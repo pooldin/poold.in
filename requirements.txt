@@ -1,1 +1,2 @@
--e git+ssh://git@github.com/pooldin/pooldwww.git#egg=pooldwww
+-i https://pooldev:h}9sW.o6vD@code.poold.in/
+pooldwww
