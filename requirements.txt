@@ -1,1 +1,1 @@
--e ssh+git://git@github.com/pooldin/pooldwww.git
+-e git+ssh://git@github.com/pooldin/pooldwww.git
