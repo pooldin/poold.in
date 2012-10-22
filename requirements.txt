@@ -1,0 +1,1 @@
+-e ssh+git://git@github.com/pooldin/pooldwww.git
