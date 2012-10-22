@@ -1,2 +1,2 @@
--i https://pooldev:h}9sW.o6vD@code.poold.in/
+-i https://pooldev:h}9sW.o6vD@code.poold.in/pypi/
 pooldwww
