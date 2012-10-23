@@ -35,6 +35,7 @@ if py > (2, 7) or py < (2, 7):
 
 # Specify non-pypi dependency links (i.e. locate poold.in packages)
 pooldin = 'http://%s:%s@code.poold.in/pypi/%s' % (username, password, '%s')
+
 links = [
     pooldin % 'pooldwww/#egg==pooldwww',
 ]
