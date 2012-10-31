@@ -42,7 +42,7 @@ links = [
 
 # Required dependencies
 required = [
-    'pooldwww==0.1-dev.1351277348.ce7242c',
+    'pooldwww==0.1-dev.1351642133.4be8a3a',
 ]
 
 
