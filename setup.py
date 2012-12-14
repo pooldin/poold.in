@@ -42,7 +42,7 @@ links = [
 
 # Required dependencies
 required = [
-    'pooldwww==0.1-dev.1355345887.6d3d4a6',
+    'pooldwww==0.1-dev.1355524269.adf5e2b',
     'newrelic',
 ]
 
